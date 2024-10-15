@@ -5,3 +5,6 @@ scikit-learn
 scipy
 matplotlib
 wget
+Sphinx
+sphinx-bootstrap-theme
+numpydoc
